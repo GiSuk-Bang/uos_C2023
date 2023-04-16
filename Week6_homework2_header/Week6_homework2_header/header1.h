@@ -1,4 +1,3 @@
-#pragma once
 
 //정수 자료형을 파라미터로 하는 최대 공약수 함수 
 int max1(int a, int b);
